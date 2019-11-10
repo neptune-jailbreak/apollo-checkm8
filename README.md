@@ -28,6 +28,14 @@ We will support the following devices.
 
 and any other devices affected by checkm8. If a device is affected by checkm8 but not on this list, we plan to add future support for it.
 
+
+# How to use it
+
+1. Run the program in Bash by typing 'Python main.py'
+2. Plug-in your device.
+3. Sit-back, relax, and watch your device get jailbroken.
+
+
 # About Me
 
 Hello, I'm 0_zeroday (the one writing this). I am a Cydia tweak and repo developer and a future security researcher. I'm 14 years old and love to program. I specialize in Use-After-Free exploits so when I saw checkm8, I new I had to make a jailbreak.
